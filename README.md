@@ -1,5 +1,5 @@
 # supermarket
-This repository contains a synthetic dataset that can be used to teach and learn different data analytics concepts using SQL Lite and Python.
+This repository contains a synthetic dataset that can be used learn different data analytics concepts using SQL Lite and Python.
 
 
 ## Step 1: Load all the data files into a SQLite database
