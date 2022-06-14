@@ -1,8 +1,4 @@
 '''
-author: Brian Mukeswe
-date: July 24, 2021
-contact: mukeswebrian@yahoo.com
-'''
 
 import pandas as pd
 import database_utils as dbu
